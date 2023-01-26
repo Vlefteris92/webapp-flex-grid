@@ -1,9 +1,9 @@
 # WebApp with Flex and Grid
 
-my text
-
 ## Flex App
 
-my text **strong text**
+WebApp with display: flex;
 
 ## Grid App
+
+WebApp with display: grid;
